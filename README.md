@@ -4,7 +4,7 @@ Bem vindos ao projeto de Revisão Geral da disciplina de PNT 1 (2020)
 
 <h4>Essa é uma versão inicial. Se você achar algum erro por favor me REPORTAR para que eu atualize o código e deixe-o mais didático e legível o possível.<h4>
 
-<h3> Recomendações: </h3>
+<h3> Recomendações</h3>
 
 <h4>Familiarizados com o git:</h4> 
 Preencha o banco de dados (matricula) antes de ir para as outras requisições.
@@ -13,7 +13,7 @@ Preencha o banco de dados (matricula) antes de ir para as outras requisições.
 Você pode clicar em <b>Code > Download ZIP</b> e baixar um arquivo .zip com o projeto. Preencha o banco de dados (matricula) antes de ir para as outras requisições.
 
 <h4>Aos que usam o Google Colab:</h4> 
-Se você for copiar e colar o código no Colab coloque o código de cada arquivo (exceto o hogwarts.sqlite) em um bloco seguindo a orgem abaixo:
+Se você for copiar e colar o código no Colab coloque o código de cada arquivo (exceto o hogwarts.sqlite) em um bloco seguindo a origem abaixo:
 
 1. bd.py ou models.py
 2. models.py ou bd.py
