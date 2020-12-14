@@ -2,7 +2,7 @@
 
 Bem vindos ao projeto de Revisão Geral da disciplina de PNT 1 (2020)
 
-<h4>Essa é uma versão inicial. Se você achar algum erro por favor me REPORTAR para que eu atualize o código e o deixe o mais didático e legível possível.<h4>
+<h4>Essa é uma versão inicial. Se você achar algum erro por favor me REPORTAR para que eu atualize o código e deixe-o mais didático e legível o possível.<h4>
 
 <h3> Recomendações: </h3>
 
