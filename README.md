@@ -12,7 +12,7 @@ Preencha o banco de dados (matricula) antes de ir para as outras requisições.
 <h4>Não usam git:</h4> 
 Você pode clicar em <b>Code > Download ZIP</b> e baixar um arquivo .zip com o projeto. Preencha o banco de dados (matricula) antes de ir para as outras requisições.
 
-<h4>Aos que usarão o Google Colab:</h4> 
+<h4>Aos que usam o Google Colab:</h4> 
 Se você for copiar e colar o código no Colab coloque o código de cada arquivo (exceto o hogwarts.sqlite) em um bloco seguindo a orgem abaixo:
 
 1. bd.py ou models.py
