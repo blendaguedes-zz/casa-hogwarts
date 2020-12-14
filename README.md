@@ -21,3 +21,6 @@ Se você for copiar e colar o código no Colab coloque o código de cada arquivo
 4. app.py
 
 Depois disso rode o método <b>criar_tabela()</b> para que o banco e a tabela sejam criados.
+
+
+<h2>BONS ESTUDOS!!! Ótimo final de ano!!</>
