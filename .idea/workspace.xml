@@ -46,7 +46,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Flask server.Flask (app.py)">
+  <component name="RunManager" selected="Python.bd">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,8 +165,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Flask server.Flask (app.py)" />
         <item itemvalue="Python.bd" />
+        <item itemvalue="Flask server.Flask (app.py)" />
         <item itemvalue="Python.models" />
       </list>
     </recent_temporary>
@@ -179,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607869621576</updated>
-      <workItem from="1607869640064" duration="19310000" />
+      <workItem from="1607869640064" duration="19702000" />
     </task>
     <servers />
   </component>
@@ -192,9 +192,10 @@
     </state>
     <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.23.1366.745/0.23.1440.811@0.23.1440.811" timestamp="1607960773692" />
     <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1607936128966" />
-    <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607942966665">
+    <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607967276856">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.23.1366.745/0.23.1440.811@0.23.1440.811" timestamp="1607967276856" />
     <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.811@0.23.1440.811" timestamp="1607942966665" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1607966611371">
       <screen x="0" y="23" width="1440" height="811" />
