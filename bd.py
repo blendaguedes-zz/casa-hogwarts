@@ -2,7 +2,7 @@ import sqlite3
 
 
 def conecte():
-    conexao = sqlite3.connect("hogwarts")
+    conexao = sqlite3.connect("hogwarts.sqlite")
     cursor = conexao.cursor()
     return conexao, cursor
 
@@ -12,7 +12,7 @@ def criar_tabela():
 
     comando_sql = "CREATE TABLE estudante(id INTEGER PRIMARY KEY AUTOINCREMENT, " \
                   "nome TEXT NOT NULL, data_nascimento NOT NULL, casa TEXT NOT NULL, " \
-                  "ano INTEGER NOT NULL, ativo INTEGET NOT NULL)"
+                  "ano INTEGER NOT NULL, ativo INTEGER NOT NULL)"
 
     cursor.execute(comando_sql)
     conexao.close()
